@@ -1,0 +1,3 @@
+#ignoring metafiles
+*.metadata*
+*.recommenders*
